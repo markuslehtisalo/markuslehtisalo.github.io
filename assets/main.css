@@ -1,4 +1,4 @@
-a:hover {
+a:hover, a:visited:hover {
     color: blue;
 }
 
