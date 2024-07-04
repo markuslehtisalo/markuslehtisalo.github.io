@@ -1,27 +1,9 @@
-a:hover {
-    color: blue;
-}
-
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 h1 {
     font-size: 26px;
-}
-
-h1 a {
-    color: inherit;
-    text-decoration: none;
-}
-
-h1 a:hover {
-    color: blue !important;
-    text-decoration: underline;
-}
-
-h1 a:visited {
-    color: inherit;
 }
 
 p {
